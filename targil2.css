@@ -1,0 +1,45 @@
+body {}
+
+.div0 {
+    width: 700px;
+    height: 1400px;
+    background: gray;
+    margin: 0 auto;
+    border: solid red;
+    border-width: 8px;
+    border-color: red;
+    padding: 8px;
+}
+
+.div1 {
+    width: 600px;
+    height: 400px;
+    background: red;
+    margin: 0 auto;
+    border: solid black;
+    border-width: 8px;
+    border-color: black;
+    padding: 8px;
+}
+
+.div2 {
+    width: 600px;
+    height: 400px;
+    background: yellow;
+    margin: 8px auto;
+    border: solid black;
+    border-width: 8px;
+    border-color: black;
+    padding: 8px;
+}
+
+.div3 {
+    width: 600px;
+    height: 400px;
+    background: blue;
+    margin: 8px auto;
+    border: solid black;
+    border-width: 8px;
+    border-color: black;
+    padding: 8px;
+}
