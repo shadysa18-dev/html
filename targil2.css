@@ -1,8 +1,14 @@
-body {}
+body {
+    font-family: fantasy;
+    background: silver;
+    margin: 0;
+    padding: 0;
+}
 
 .div0 {
+    text-align: center;
     width: 700px;
-    height: 1400px;
+    height: 1500px;
     background: gray;
     margin: 0 auto;
     border: solid red;
@@ -12,7 +18,10 @@ body {}
 }
 
 .div1 {
+    text-align: center;
     width: 600px;
+    font: 20px Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     height: 400px;
     background: red;
     margin: 0 auto;
@@ -23,7 +32,10 @@ body {}
 }
 
 .div2 {
+    text-align: center;
     width: 600px;
+    font: 20px Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     height: 400px;
     background: yellow;
     margin: 8px auto;
@@ -34,7 +46,10 @@ body {}
 }
 
 .div3 {
+    text-align: center;
     width: 600px;
+    font: 20px Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     height: 400px;
     background: blue;
     margin: 8px auto;

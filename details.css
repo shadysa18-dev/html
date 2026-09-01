@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    height: 50px;
+    background-color: rgb(109, 109, 55);
+
+}
+
+
+a {
+    display: inline-block;
+    padding: 10px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #007BFF;
+    background-color: #FFFFFF;
+    border: 2px solid #007BFF;
+    /* Defines border thickness and color */
+    border-radius: 6px;
+    /* Rounds the corners slightly */
+    transition: all 0.3s ease;
+
+
+}
+
+button {
+    display: inline-block;
+    padding: 10px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #007BFF;
+    background-color: #FFFFFF;
+    border: 2px solid #007BFF;
+    /* Defines border thickness and color */
+    border-radius: 6px;
+    /* Rounds the corners slightly */
+    transition: all 0.3s ease;
+}
+
+form {
+    text-align: center;
+    background-color: chocolate;
+    margin-top: auto;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: chocolate;
+    margin-top: auto;
+}
